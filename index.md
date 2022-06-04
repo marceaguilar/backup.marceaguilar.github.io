@@ -4,7 +4,7 @@
 Welcome! 
 I am a Ph.D student in Business and Accounting at [Rice University](https://www.rice.edu/). 
 
-My research areas of interest are enterprise, entrepreneurship, and informal economy in developing countries. My current research project is on business practices and performance of small and micro business in Latin America. 
+My research areas of interest are enterprise, entrepreneurship, and informal economy in developing countries. My current research project is on practices and performance of small and micro business in Latin America. 
 
 My previous academic background includes a master in Economics and Public Policy at the University of York (UK) and a Bachelor in Economics from Central American University (El Salvador).
 
