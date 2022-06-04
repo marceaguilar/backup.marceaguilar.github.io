@@ -1,5 +1,5 @@
 # Marcela Aguilar
-I am a Ph.D student in Business at [Rice University] (https://www.rice.edu/)
+I am a Ph.D student in Business at [Rice University](https://www.rice.edu/)
 You can use the [editor on GitHub](https://github.com/marceaguilar/marceaguilar.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
