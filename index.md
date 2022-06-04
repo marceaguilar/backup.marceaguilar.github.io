@@ -10,5 +10,7 @@ My previous academic background includes a master in Economics and Public Policy
 
 Outside of academia, I have worked with the United Nations in UNICEF and ILO at Italy and Central America. I also worked with the Chambers of Commerce and Organizations of Employers in El Salvador, Honduras and Guatemala. 
 
+Contact me at **kma6@rice.edu**! 
+
 
 
