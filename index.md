@@ -1,5 +1,5 @@
 # **Marcela Aguilar**
-![This is an image](https://business.rice.edu/sites/default/files/styles/1_1_720x720/public/2022-09/IMG_6531%20%282%29.JPG?h=98a1acfa&itok=q3j5qBfW)
+
 
 Welcome! 
 I am a Ph.D student in Business and Accounting at [Rice University](https://www.rice.edu/). 
@@ -13,4 +13,4 @@ Outside of academia, I have worked with the United Nations in UNICEF and ILO at 
 Contact me at **kma6@rice.edu**! 
 
 
-
+![This is an image](https://business.rice.edu/sites/default/files/styles/1_1_720x720/public/2022-09/IMG_6531%20%282%29.JPG?h=98a1acfa&itok=q3j5qBfW)
