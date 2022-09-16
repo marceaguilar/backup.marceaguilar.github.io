@@ -1,1 +1,4 @@
 theme: Academimal
+  name = "Minimal"
+  homepage = "https://pages-themes.github.io/minimal/"
+  repo = "https://github.com/pages-themes/minimal"
