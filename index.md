@@ -1,5 +1,5 @@
 # **Marcela Aguilar**
-![This is an image]([https://media-exp1.licdn.com/dms/image/C4D03AQFxnXtl48CcZw/profile-displayphoto-shrink_800_800/0/1585364031648?e=1659571200&v=beta&t=-J3Le59oPuY7pNIn07Ww15ekg2UTWvwtI8nZVBZhRtA](https://business.rice.edu/sites/default/files/styles/1_1_720x720/public/2022-09/IMG_6531%20%282%29.JPG?h=98a1acfa&itok=q3j5qBfW))
+![This is an image](https://business.rice.edu/sites/default/files/styles/1_1_720x720/public/2022-09/IMG_6531%20%282%29.JPG?h=98a1acfa&itok=q3j5qBfW)
 
 Welcome! 
 I am a Ph.D student in Business and Accounting at [Rice University](https://www.rice.edu/). 
